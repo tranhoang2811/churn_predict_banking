@@ -1,0 +1,7 @@
+,param_penalty,param_solver,param_max_iter,param_C,mean_test_score,rank_test_score
+1,l2,liblinear,200,1.0,0.8637721297181633,1
+3,l2,liblinear,300,1.0,0.8637721297181633,1
+5,l2,liblinear,500,1.0,0.8637721297181633,1
+4,l1,liblinear,500,1.0,0.863353299046223,4
+0,l1,liblinear,200,1.0,0.8632694767494922,5
+2,l1,liblinear,300,1.0,0.8632694767494922,5
